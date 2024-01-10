@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(231, 184, 184);
+    color: rgb(115, 14, 14);
+    margin: 20px;
+    font-size: medium;
+    font-family:AbhayaLibre-Bold.ttf;
+}
+h1{
+    color: rgb(151, 20, 20);
+    border:2px solid rgb(151, 20, 20);
+    padding: 8px;
+}
+.artichel{
+    margin:10px;
+    border:1px solid rgb(115, 14, 14);
+    font-weight: bolder;
+}
+img{
+    margin:20px;
+}
+#firstI{
+    font-size: larger;
+}
